@@ -46,8 +46,6 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Twofish.cs" />
-    <Compile Include="TwofishBase.cs" />
-    <Compile Include="TwofishEncryption.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

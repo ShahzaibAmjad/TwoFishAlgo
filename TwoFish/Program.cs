@@ -12,7 +12,7 @@ namespace TwoFish
     {
         static void Main(string[] args)
         {
-            Twofish twofish = new Twofish
+            TwofishManaged twofish = new TwofishManaged
             {
                 KeySize = 256,
                 Mode = CipherMode.CBC,
